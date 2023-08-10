@@ -1,4 +1,6 @@
 {
   "latestVersion": "1.0",
-  "fileUrl": null
+  "fileUrl": null,
+  "searchDelayMin": 4000,
+  "searchDelayMax" : 8000
 }
