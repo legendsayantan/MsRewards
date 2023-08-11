@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "fileUrl": null,
   "searchDelayMin": 4000,
   "searchDelayMax" : 8000,
   "wordList": [
-    "legendsayantan website",
+    "legendsayantan",
     "legendsayantan github"
   ]
 }
