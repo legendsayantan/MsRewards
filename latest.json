@@ -2,5 +2,8 @@
   "latestVersion": "1.0",
   "fileUrl": null,
   "searchDelayMin": 4000,
-  "searchDelayMax" : 8000
+  "searchDelayMax" : 8000,
+  "wordList": [
+    "LegendSayantan"
+  ]
 }
