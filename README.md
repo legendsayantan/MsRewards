@@ -1,7 +1,5 @@
 # Rewards
 
-Project still experimental, can have bugs.
-
 #### Easiest way there is, to earn microsoft reward points. 
 
 This android app can automatically complete rewards tasks, within itself without even requiring Edge browser. 
