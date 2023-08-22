@@ -12,3 +12,5 @@ This app can keep multiple ms accounts logged in, so switching accounts is only 
 [Read the entire privacy notice](https://github.com/legendsayantan/MsRewards/blob/master/PRIVACY.md)
 
 This app was tested on Microsoft Accounts with Indian region and does not guarantee full compatibility with other regions. If you face any issues or would like to contribute, please open an issue.
+
+If you found it useful, Consider sponsoring! Redeem codes will be provided free-of-cost to sponsors.
