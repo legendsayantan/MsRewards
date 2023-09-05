@@ -5,8 +5,9 @@
   "searchDelayMax": 8000,
   "restricted": [],
   "wordList": [
-    "legendsayantan",
-    "github legendsayantan",
+    "legendsayantan site:github.com",
+    "site:legendsayantan.is-a.dev",
+    "site:legendsayantan.github.io",
     "cricket scores",
     "football scores",
     "World cup",
