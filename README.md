@@ -16,5 +16,5 @@ Also, this app only aims to help you earn points and doesn't care you can redeem
 
 ### Like this project?
 [Sponsor this project](https://github.com/sponsors/legendsayantan?o=esb) to support development. You get -
-1. Redeem codes (5k credits for every USD spent, with bonus)
+1. Redeem codes (5k credits for every USD spent, with additional bonus)
 2. Your custom words in wordlist (increase bing search traffic about your site)
