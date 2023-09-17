@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.1.2",
   "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.1.2/Rewards-v1.1.2.apk",
-  "motd":"test message",
+  "message":"Welcome to version 1.1.3!\nFixed an issue where credits were deducted but pc search was not successful, Rephrased some words and improved various other aspects.",
   "searchDelayMin": 4000,
   "searchDelayMax": 8000,
   "restricted": [],
