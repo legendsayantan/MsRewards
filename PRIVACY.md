@@ -1,5 +1,5 @@
 ## PRIVACY NOTICE - READ CAREFULLY
-This software is free for use with a single account, but you may purchase redeem codes to earn points on upto 15 accounts at once. This supports further development of this software and makes all my hours put into it _somewhat_ worthwhile.
+This software is free for use with a single account, but you may purchase additional usage quota to earn points on upto 15 accounts at once. This supports further development of this software and makes all my hours put into it _somewhat_ worthwhile.
 #### This app stores all your microsoft account credentials locally on your device and neither collects nor sells any of it to _anyone_.
 On the event of a crash, only the active account email, points and level, along with your device manufacturer and model might be collected in order to improve this software.
 ### However,
