@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1.4",
-  "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.1.4/Rewards-v1.1.4.apk",
+  "latestVersion": "1.1.5",
+  "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.1.5/Rewards-v1.1.5.apk",
   "message": "Welcome to Rewards v1.1.5!\n\nIn this update, we have patched some app-breaking changes introduced by microsoft.\nThe support for daily sets in the app will be rolled out soon.\n\nSpecial Announcement:\nYou can now earn on upto 15 accounts from one single android device! Click on \"Increase your quota\" to purchase additional usage quota for cheap, and earn on multiple accounts.\n\nHope you are enjoying the app experience.",
   "searchDelayMin": 4000,
   "searchDelayMax": 8000,
