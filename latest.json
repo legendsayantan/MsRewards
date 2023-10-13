@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1.5",
-  "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.1.5/Rewards-v1.1.5.apk",
+  "latestVersion": "1.1.6",
+  "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.1.6/Rewards-v1.1.6.apk",
   "message": "Welcome to Rewards v1.1.5!\n\nIn this update, we have patched some app-breaking changes introduced by microsoft.\nThe support for daily sets in the app will be rolled out soon.\n\nSpecial Announcement:\nYou can now earn on upto 15 accounts from one single android device! Click on \"Increase your quota\" to purchase additional usage quota for cheap, and earn on multiple accounts.\n\nHope you are enjoying the app experience.",
   "searchDelayMin": 4000,
   "searchDelayMax": 8000,
@@ -184,7 +184,7 @@
     "Healthy plant-based recipes",
     "Cinematography techniques",
     "Climate change policy updates",
-        "Tiny house design ideas",
+    "Tiny house design ideas",
     "Psychological resilience techniques",
     "Classic jazz music albums",
     "Deep breathing exercises for stress",
