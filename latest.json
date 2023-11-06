@@ -2,8 +2,8 @@
   "latestVersion": "1.1.6",
   "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.1.6/Rewards-v1.1.6.apk",
   "message": "Attention ⚠ False positive\n\nRecent versions of the Avast antivirus may mark this app as dangerous, which is a false positive. \nThis app does not store, steal or collect your passwords in any way.\n\nIt is perfectly safe to ignore the warning and continue earning.\n\nWe have already contacted Avast regarding this matter. For further doubts, you are encouraged to upload the apk to virustotal.com and analyse the results.",
-  "searchDelayMin": 4000,
-  "searchDelayMax": 8000,
+  "searchDelayMin": 6000,
+  "searchDelayMax": 10000,
   "restricted": [],
   "wordList": [
     "legendsayantan site:github.com",
