@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.1.6",
+  "latestVersion": "1.1.7",
   "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.1.6/Rewards-v1.1.6.apk",
-  "message": "The default timer for the automation algorithms has been slowed down to reduce the chance of your accounts getting restricted. From today, it will take more time to complete searches in default settings.",
+  "message": "**Welcome to Rewards v1.1.7!**\n\nThis update includes : \n- Bing Search Glitch Bypass (experimental feature)\n- In-app Bing Shortcut \n- More Optimisations to make the experience smoother. \n\n### Happy Earning!",
   "searchDelayMin": 6000,
   "searchDelayMax": 10000,
   "restricted": [],
