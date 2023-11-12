@@ -2,7 +2,7 @@
   "latestVersion": "1.1.7",
   "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.1.7/Rewards-v1.1.7.apk",
   "message": "**Welcome to Rewards v1.1.7!**\n\nThis update includes :\n- Bing Search Glitch Bypass (experimental feature)\n- In-app Bing Shortcut\n- Autoqueue completion alert\n- More Optimisations to make the experience smoother.\n\n### Happy Earning!",
-  "imageUrl": "https://cdn.jsdelivr.net/gh/legendsayantan/MsRewards@main/update.svg"
+  "imageUrl": "https://cdn.jsdelivr.net/gh/legendsayantan/MsRewards@main/update.svg",
   "searchDelayMin": 6000,
   "searchDelayMax": 10000,
   "restricted": [],
