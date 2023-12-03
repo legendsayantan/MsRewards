@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.1.8",
   "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.1.8/Rewards-v1.1.8.apk",
-  "message": "### Re-Announcement:\n#### Having login/Search issues?\nA recent version of Android System WebView is causing login failure and pc search errors.\n\nIf you faced these issues, [Uninstalling updates](https://play.google.com/store/apps/details?id=com.google.android.webview) will fix the issue.\n\nIf you did not face the issue yet, **Do not update Android System Webview.**",
+  "message": "### Rewards not counting?\nMicrosoft has recently started working its magic on some users to prevent them from earning more than 3 search per 15 minutes. No fixes are known for now.",
   "imageUrl": "",
   "searchDelayMin": 6000,
   "searchDelayMax": 10000,
