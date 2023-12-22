@@ -10,7 +10,9 @@ This is a specially enhanced browser to make your earning experience smooth. Ear
 
 - It has isolated multi-account support so you are undetectable when using multiple accounts on one browser, and switching account is just two clicks away.
 
-- Only 3 megabytes in installation size , a lot more storage efficient than Edge. If you ever uninstall the app, you have an option to keep the accounts for when you reinstall.
+- Can complete all your searches when the app is in background, with the 15-minute cooldown support.
+
+- Only 3 megabytes in installation size , a lot more storage efficient than Edge. If you ever uninstall the app, you may keep the accounts for when you reinstall.
 
 - Share temporary access for your bing account, to other devices without sharing your password! 
 
@@ -24,11 +26,10 @@ Also, this app only aims to help you earn points and doesn't care you can redeem
 
 ### Pricing?
 
-It doesn't cost anything for the most part. There is a daily quota to how much automation you can use, and you may need to purchase additional quota **only** if you use automation on multiple accounts. 
-Even then, it's pretty cheap compared to what you earn. This small pricing helps me to continue development further and keep improving the app.
+There is a limited quota on automation usage, and you may need to purchase additional quota if you plan to earn on multiple accounts. 
+This small percentage of your earning will help me to continue further development and improvements to the app.
 
-### Like this project?
-[Sponsor this project](https://github.com/sponsors/legendsayantan?o=esb) to support development. You get -
-1. Additional usage quota (6k quota for every USD or equivalent spent, + bonus)
-2. Your custom words in wordlist (increase bing search traffic about your site)
-3. Advertise your product or service as the motd of this app, broadcasted to all users.
+### You may also...
+[Sponsor this project](https://github.com/sponsors/legendsayantan?o=esb) to support development. You get one of -
+1. Complimentary automation quota (6k quota for every USD or equivalent spent, + bonus)
+2. Publish your own full-screen advertisement, for your product/services/website, within the app. 
