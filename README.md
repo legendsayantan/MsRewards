@@ -10,7 +10,7 @@ This is a specially enhanced browser to make your earning experience smooth. Ear
 
 - It has isolated multi-account support so you are undetectable when using multiple accounts on one browser, and switching account is just two clicks away.
 
-- Can complete all your searches when the app is in background, with the 15-minute cooldown support. (Turbo Search)
+- **Turbo Search** : This mode completes your searches multiple accounts at a time, even when you are not using the app. Also supports 15-minute search cooldowns.
 
 - Only 3 megabytes in installation size , a lot more storage efficient than Edge. If you ever uninstall the app, you may keep the accounts for when you reinstall.
 
