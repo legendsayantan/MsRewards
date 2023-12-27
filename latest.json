@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.1.8",
   "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.1.8/Rewards-v1.1.8.apk",
-  "message": "#### Announcement for Android 14 users!\nWe have noticed an increased number of crashes in the preview update, on devices running Android 14. We have released a potential fix, and you are advised to update the app again. Apologies for any inconvenience caused.\n#### [Download Preview](https://github.com/legendsayantan/MsRewards/releases/download/1.1.8/Rewards-v1.1.8+.preview.apk) ",
+  "message": "### Android 14 users!\nWe have noticed an increased number of crashes in the preview update, on devices running Android 14. We have released another potential fix, and you are advised to update the app again. Apologies for any inconvenience caused.\n#### [Download Preview](https://github.com/legendsayantan/MsRewards/releases/download/1.1.8/Rewards-v1.1.8+.preview.apk) ",
   "imageUrl": "",
   "searchDelayMin": 6000,
   "searchDelayMax": 10000,
