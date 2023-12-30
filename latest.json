@@ -6,6 +6,7 @@
   "searchDelayMin": 6000,
   "searchDelayMax": 10000,
   "restricted": [],
+  "banned": [],
   "wordList": [
     "legendsayantan site:github.com",
     "site:legendsayantan.is-a.dev",
