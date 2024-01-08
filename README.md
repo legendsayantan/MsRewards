@@ -8,7 +8,7 @@ This is a specially enhanced browser to make your earning experience smooth. Ear
 
 - This browser automatically detects your remaining tasks and completes them for you, even able to complete desktop tasks from a mobile device.
 
-- It has isolated multi-account support so you are undetectable when using multiple accounts on one browser, and switching account is just two clicks away.
+- It has isolated multi-account support so you are undetectable when using multiple accounts on one browser, and switching between accounts is just two clicks away.
 
 - **Turbo Search** : This mode completes your searches multiple accounts at a time, even when you are not using the app. Also supports 15-minute search cooldowns.
 
