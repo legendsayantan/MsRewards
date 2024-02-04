@@ -5,7 +5,7 @@ This software is **entirely free** for use with a single account, but you may pu
 #### This app handles your accounts the way any browser would, via cookies and never captures or stores passwords.
 On the event of a crash, only the active account email, points and level, along with your device manufacturer and model might be collected in order to improve this software.
 
-If a potential abuse like malicious modifications were to be detected, your Android device ID may be collected to investigate further and may also, be used to prevent your access to this software.
+If any potential abuse or modifications were to be detected, your Android device ID may be collected to investigate further and may also, be used to prevent your access to this software.
 
 This software is only maintained as a side-project and provided "AS IS", with no warranties of any kind, for any part of the software. This app is not affiliated to Microsoft™. App was tested on Microsoft Accounts with Indian region and does not guarantee full compatibility with other regions. Also, this app only aims to help you earn points and doesn't care you can redeem them or not.
 
