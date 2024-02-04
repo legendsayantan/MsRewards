@@ -12,4 +12,4 @@ This software is only maintained as a side-project and provided "AS IS", with no
 **For Rooted Devices -**
 Use it on your own risk. Other apps with root permissions may be able to access your accounts.
 
-### You must agree with this entire statement in order to use this software.
+### Using this software implies that you agree with this entire statement.
