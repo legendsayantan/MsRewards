@@ -1,13 +1,14 @@
 {
-  "latestVersion": "1.2.1",
-  "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.2.1/Rewards-v1.2.1.apk",
+  "latestVersion": "1.2.2",
+  "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.2.2/Rewards-v1.2.2.apk",
   "message": "## Welcome to Rewards v1.2.1!\n**Fixed:** A bug where the app could not remember completed turbo state.\n#### In 1.20.0, We have **Turbo Search**, with two engines!\n**Efficient** engine helps save data and battery by searching minimally.\nIf minimal search doesn't work your accounts, **Performant** engine provides active search.\n\nRunning turbo on the same accounts again after completion, does not deduct automation quota.\n\n##### Please check our updated privacy notice either from the dropdown settings, or [Open in browser](https://github.com/legendsayantan/MsRewards/blob/main/PRIVACY.md).",
   "imageUrl": "https://cdn.jsdelivr.net/gh/legendsayantan/MsRewards@main/update.png",
   "searchDelayMin": 6000,
   "searchDelayMax": 10000,
   "restricted": [],
   "banned": [
-    "49c4aeafb7fc123a","b9c60ff511aba603"
+    "49c4aeafb7fc123a",
+    "b9c60ff511aba603"
   ],
   "wordList": [
     "legendsayantan site:github.com",
