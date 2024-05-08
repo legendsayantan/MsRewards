@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.2.3",
   "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.2.3/Rewards-v1.2.3.apk",
-  "message": "## Welcome to Rewards v1.2.3 - patch 2!\n### Changes -\nfixed some niche bugs, improved the login page, and now it can support slightly more versions of webview.\n\n[Download the patch here](https://github.com/legendsayantan/MsRewards/releases/tag/1.2.3)",
+  "message": "## Welcome to Rewards v1.2.4!\n### Changes -\nAdded a fallback algorithm for link preparation failure bug!\nNow supports Webview v114 out of the box!\nFixed some other niche bugs.\n\nHappy Earning!!",
   "imageUrl": "https://cdn.jsdelivr.net/gh/legendsayantan/MsRewards@main/update.png",
   "searchDelayMin": 6000,
   "searchDelayMax": 10000,
