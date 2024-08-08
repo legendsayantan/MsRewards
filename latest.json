@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.2.5",
-  "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.2.5/Rewards-v1.2.5.apk",
+  "latestVersion": "1.2.6",
+  "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.2.6/Rewards-v1.2.6.apk",
   "message": "## Welcome to Rewards v1.2.5!\n\nIn this update, the account limit has been raised to 20.\n\nAlso, some niche bugs were fixed to deliver a smoother experience.",
   "imageUrl": "https://cdn.jsdelivr.net/gh/legendsayantan/MsRewards@main/update.png",
   "searchDelayMin": 6000,
@@ -19,9 +19,9 @@
     "cdd36886953fd238",
     "82a4eade875184fe"
   ],
-  "cloner":{
-    "edf166bfe02cca88":2,
-    "ea16b98874e1afca":2
+  "cloner": {
+    "edf166bfe02cca88": 2,
+    "ea16b98874e1afca": 2
   },
   "wordList": [
     "legendsayantan site:github.com",
