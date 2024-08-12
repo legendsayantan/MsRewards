@@ -24,6 +24,9 @@ This is a specially enhanced browser to make your earning experience smooth. Ear
 This app is not affiliated to Microsoft™. App was tested on Microsoft Accounts with Indian region and does not guarantee full compatibility with other regions yet. 
 Also, this app only aims to help you earn points and doesn't care you can redeem them or not. If you face any other issues or would like to contribute, please open an issue.
 
+### Emulator / Virtual Machine / App cloner compatibility
+Do you plan to use this on an emulator/virtual machine/app cloner? Not recommended, but the app will attempt to work on them if you have been authorised. To authorise, mail your 16-characters long device ID (found in multiple places of the app) along with how you want to use the app, to [legendsayantan@gmail.com](mailto:legendsayantan@gmail.com).
+
 ### Pricing?
 
 There is a limited quota on automation usage, and you may need to purchase additional quota if you plan to earn on multiple accounts. 
