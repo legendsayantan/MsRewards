@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.2.7",
+  "latestVersion": "1.2.8",
   "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.2.7/Rewards-v1.2.7.apk",
-  "message": "## Welcome to Rewards v1.2.7!!\n\n### In this update - \n- Added a home screen widget for Turbo Search, for more reliable operation.\n- Added options for selecting data preference and ignoring reloads.\n\nHappy Earning!",
+  "message": "## Welcome to Rewards v1.2.8!!\n\n### This update consists of some routine maintenance to keep things working.\n\nHappy Earning!",
   "imageUrl": "https://cdn.jsdelivr.net/gh/legendsayantan/MsRewards@main/update.png",
   "searchDelayMin": 6000,
   "searchDelayMax": 10000,
