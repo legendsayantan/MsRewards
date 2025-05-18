@@ -1,7 +1,8 @@
 {
-  "latestVersion": "1.3.0",
-  "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.3.0/Rewards-v1.3.0.apk",
-  "message": "## Important Notice: \n### This update (Rewards v1.3.1) marks an end to active development of this software, means there will be no more new features available. Routine Maintenances may also be slow and rare (if any). This decision is due to lack of time I have to work on this project. \n\nUsers may continue using this software, until it stops working. \n\nHappy Earning, and Thank You for using Rewards!",  "imageUrl": "https://cdn.jsdelivr.net/gh/legendsayantan/MsRewards@main/warning.png",  
+  "latestVersion": "1.3.1",
+  "fileUrl": "https://github.com/legendsayantan/MsRewards/releases/download/1.3.1/Rewards-v1.3.1.apk",
+  "message": "## Important Notice: \n### This update (Rewards v1.3.1) marks an end to active development of this software, means there will be no more new features available. Routine Maintenances may also be slow and rare (if any). This decision is due to lack of time I have to work on this project. \n\nUsers may continue using this software, until it stops working. \n\nHappy Earning, and Thank You for using Rewards!",
+  "imageUrl": "https://cdn.jsdelivr.net/gh/legendsayantan/MsRewards@main/update.png",
   "searchDelayMin": 12000,
   "searchDelayMax": 18000,
   "restricted": [],
