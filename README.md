@@ -4,6 +4,10 @@
 
 This is a specially enhanced browser to make your earning experience smooth. Earning rewards has never been easier!
 
+### Important Notice: 
+> Rewards v1.3.1 marks an end to active development of this software, means there will be no more new features available. Routine Maintenances may also be slow and rare (if any). This decision is due to the lack of time I have to work on this project. Anyone who is interested to maintain this project further, get in touch with me. <br><br>
+Thank you to everyone for your continued support through all this time.
+
 ### Features
 
 - This browser automatically detects your remaining tasks and completes them for you, even able to complete desktop tasks from a mobile device.
@@ -34,5 +38,5 @@ This small percentage of your earning will help me to continue further developme
 
 ### You may also...
 [Sponsor this project](https://github.com/sponsors/legendsayantan?o=esb) to support development. You get one of -
-1. Complimentary automation quota (6k quota for every USD or equivalent spent, + bonus)
+1. Complimentary automation quota (10k quota for every USD or equivalent spent, + bonus)
 2. Publish your own full-screen advertisement, for your product/services/website, within the app. 
